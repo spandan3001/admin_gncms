@@ -1,6 +1,8 @@
 # gncms_clone
 
 The Student College Management App is a comprehensive solution for managing student information, attendance, and academic records in a college setting.
+## Please click here for the source code
+ - [gncms_clone](https://github.com/spandan3001/gncms_clone)
 
 ## App ScreenShots
 
